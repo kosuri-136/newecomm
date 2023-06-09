@@ -1,0 +1,11 @@
+.container2{
+    width: 94%;
+    height: auto;
+    margin: 20px;
+    border: 4px solid rgb(245, 32, 32);
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    flex-direction: row;
+    padding-left: 45px;
+}

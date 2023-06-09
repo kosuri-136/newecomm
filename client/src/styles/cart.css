@@ -1,0 +1,22 @@
+.tablecontainer {
+    height: auto;
+    width: 300px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
+.empty-cart{
+    border: 6px solid red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   font-size: large;
+   font-weight: bolder;
+   margin-left: 500px;
+   margin-right: 500px;
+   margin-top: 100px;
+}

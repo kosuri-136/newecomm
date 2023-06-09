@@ -1,0 +1,47 @@
+.container {
+    width: 99%;
+    height: auto;
+    border: 3px solid rgb(230, 17, 17);
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 4px black;
+    background-color: rgb(116, 151, 233);
+    padding-bottom: 10px;
+}
+.h11{
+    display: flex;
+    flex-direction: row;
+justify-content: center;
+/* padding-bottom: 1px; */
+    
+}
+.title {
+    margin-bottom: 20px;
+  }
+  .textContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    /* padding-top: 5px; */
+  }
+ /* .cartContainer 
+ {
+    margin-left: 990px;
+ } */
+.container3{
+    background-color: rgb(83, 182, 218);
+    width: 99%;
+    height: auto;
+    border: 3px solid rgb(224, 21, 21);
+    border-radius: 5px;
+    margin: 5px;
+}
+
+ .contains2{
+    margin-left: 900PX;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    /* background-color: aqua; */
+ }
